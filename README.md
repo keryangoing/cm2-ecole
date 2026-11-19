@@ -1,2 +1,5 @@
-# cm2-ecole
-projet webintoapp
+# cm2 école
+
+`x.x.x` = beta
+
+`x.x` = application complète
